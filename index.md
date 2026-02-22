@@ -24,3 +24,32 @@ Cybersecurity professional with experience in SIEM architecture, Secure SDLC imp
 - Compliance-aligned security frameworks
 
 [View Projects](./projects)
+
+---
+
+## Security Stack
+
+### Application Security
+- SonarQube (SAST)
+- Semgrep (Deep SAST)
+- Trivy (SCA / SBOM generation)
+- OWASP ZAP (DAST)
+- Manual penetration testing
+
+### CI/CD & DevSecOps
+- GitLab CI/CD security integration
+- Automated Quality Gates
+- Secure pipeline architecture
+- Risk-based deployment control
+
+### Security Monitoring & SIEM
+- SIEM architecture deployment
+- Log aggregation & normalization
+- Correlation rule engineering
+- Threat detection dashboards
+- Incident response support
+
+### Compliance & Standards
+- PCI DSS aligned security controls
+- Secure SDLC documentation
+- Risk assessment & remediation planning
